@@ -150,7 +150,7 @@ int main() {
 <img width="1186" height="316" alt="Знімок екрана 2026-11-19 о 10 18 26" src="https://github.com/user-attachments/assets/8a6d7073-4eb0-4d5f-bb1e-85a8ececf4ee" />
 <img width="1470" height="956" alt="Знімок екрана 2026-11-19 о 10 17 33" src="https://github.com/user-attachments/assets/3e44f442-c25b-4528-9e0a-3868d6e124aa" />
 <img width="1470" height="956" alt="Знімок екрана 2026-11-19 о 10 16 37" src="https://github.com/user-attachments/assets/95751c15-17d5-482b-a542-b5b40e015b0a" />
-<img width="1470" height="956" alt="Знімок екрана 2026-11-19 о 10 16 05" src="https://github.com/user-attachments/assets/7ec5553d-d599-4de9-8b8d-340241d16896" />
+<img width="1242" height="820" alt="Знімок екрана 2026-11-19 о 10 16 41" src="https://github.com/user-attachments/assets/b92424cf-26b1-4881-bc2b-f61e5c9d4864" />
 
 
 
