@@ -149,9 +149,7 @@ int main() {
 <img width="1186" height="316" alt="Знімок екрана 2026-11-19 о 10 18 26" src="https://github.com/user-attachments/assets/b35c6d0a-5564-4a71-af3c-9ecf1333e531" />
 <img width="1186" height="316" alt="Знімок екрана 2026-11-19 о 10 18 26" src="https://github.com/user-attachments/assets/8a6d7073-4eb0-4d5f-bb1e-85a8ececf4ee" />
 <img width="1470" height="956" alt="Знімок екрана 2026-11-19 о 10 17 33" src="https://github.com/user-attachments/assets/3e44f442-c25b-4528-9e0a-3868d6e124aa" />
-<img width="1242" height="820" alt="Знімок екрана 2026-11-19 о 10 16 41" src="https://github.com/user-attachments/assets/108f4f20-f35d-4cf4-904c-d0b0208c623d" />
 <img width="1470" height="956" alt="Знімок екрана 2026-11-19 о 10 16 37" src="https://github.com/user-attachments/assets/95751c15-17d5-482b-a542-b5b40e015b0a" />
-<img width="1470" height="956" alt="Знімок екрана 2026-11-19 о 10 16 09" src="https://github.com/user-attachments/assets/5945de98-bd1b-4fed-861a-d40fa6e510dd" />
 <img width="1470" height="956" alt="Знімок екрана 2026-11-19 о 10 16 05" src="https://github.com/user-attachments/assets/7ec5553d-d599-4de9-8b8d-340241d16896" />
 
 
